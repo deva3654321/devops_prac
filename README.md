@@ -1,2 +1,2 @@
 # devops_prac
-this is my first ropo
+this is my first repo
